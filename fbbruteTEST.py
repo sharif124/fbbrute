@@ -42,7 +42,7 @@ try:
 			sig = "api_key=882a8490361da98702bf97a021ddc14dcredentials_type=passwordemail={}format=JSONgenerate_machine_id=1generate_session_cookies=1locale=en_USmethod=auth.loginpassword={}return_ssl_resources=0v=1.0{}".format(userid,passwd.strip(),API_SECRET)
 			xx = hashlib.md5(sig).hexdigest()
 			data = "api_key=882a8490361da98702bf97a021ddc14d&credentials_type=password&email={}&format=JSON&generate_machine_id=1&generate_session_cookies=1&locale=en_US&method=auth.login&password={}&return_ssl_resources=0&v=1.0&sig={}".format(userid,passwd.strip(),xx)
-			response = urllib.urlopen("https://developers.facebook.com/{}".format(data)).read()
+			response = urllib.urlopen("https://api.facebook.com/restserver.php{}".format(data)).read()
 			if "error" in response:
 				pass
 			else:
