@@ -9,7 +9,7 @@ you only need to create one file with a collection of passwords then enter the u
 ```bash
 $ apt-get install python git
 $ git clone https://github.com/sharif124/rifat.git
-$ cd FBBrute
+$ cd rifat
 $ python fbbrute.py
 ```
 
