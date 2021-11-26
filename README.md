@@ -14,7 +14,7 @@ $ python fbbrute.py
 ```
 
 ### Contact me
-Line      : dtl.lily  
-Telegram  : @sorif 
-Facebook  : sorif09 
-Instagram : @sorif 
+Tel+      : +8801932132609
+Telegram  :  
+Facebook  : www.facebook.com/sorif09/
+Instagram : https://www.instagram.com/soriftalukder/
