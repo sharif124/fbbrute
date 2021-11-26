@@ -8,7 +8,7 @@ you only need to create one file with a collection of passwords then enter the u
 ### Installation and Using FBBrute
 ```bash
 $ apt-get install python git
-$ git clone https://github.com/sharif124/rifat.git
+$ git clone https://github.com/sharif124/fbbrute.git
 $ cd fbbrute
 $ python fbbrute.py
 ```
