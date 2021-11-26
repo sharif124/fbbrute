@@ -1,20 +1,20 @@
 <img src=".img.png">
 
-# FBBruteTEST
+# FBBrute
 FBBrute is a Facebook brute force tool, launches an attack by guessing the target password with a set of wordlist provided.  
 so this is the same as you try to login to someone's account while guessing the password, if the password you are trying is wrong, you will think of another password that might be used by the target to login to the account but this way might be a bit longer, but with FBBrute this will make it easier.  
 you only need to create one file with a collection of passwords then enter the username, email or ID of the target then press start crack...  
 
-### Installation and Using FBBruteTEST
+### Installation and Using FBBrute
 ```bash
 $ apt-get install python git
 $ git clone https://github.com/sharif124/rifat.git
-$ cd FBBruteTEST
-$ python FBBruteTEST.py
+$ cd FBBrute
+$ python fbbrute.py
 ```
 
 ### Contact me
-Line      : SORIF 
-Telegram  : @sorif09  
-Facebook  : sorif09  
-Instagram : @sorif09  
+Line      : dtl.lily  
+Telegram  : @sorif 
+Facebook  : sorif09 
+Instagram : @sorif 
